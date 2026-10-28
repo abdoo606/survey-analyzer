@@ -20,3 +20,7 @@ pytest projects/19-survey-analyzer -q
 - Kish effective sample size shows how much weighting costs you
 - Chi-square test of independence on weighted counts
 - Margins of error with an honest worst-case option
+
+## Repository
+- GitHub: https://github.com/{owner}/survey-analyzer
+- Python 3.11+ · tests: `pytest` · runtime dependencies: none (standard library only)
